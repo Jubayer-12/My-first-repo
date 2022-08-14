@@ -7,7 +7,7 @@ using namespace std;
 int main(){
 
 
-  cout<<"Hello GitHub"<<endl;
+  cout<<"Hello GitHub World"<<endl;
 
 
   return 0;
